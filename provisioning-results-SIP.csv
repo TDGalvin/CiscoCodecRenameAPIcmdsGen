@@ -1,0 +1,2 @@
+User ID,User Domain,Group,Extension,DN,Alternate DN,SIP Auth Username,Primary Device,Primary LinePort,Action Completed?,Action Start Date,Action Completed Date,Action Exception Message,Action Exception Task,SIP Auth Password
+ork1-kilkenny,haystack.amazon.com,ORK1,5551008,,,ork1-kilkenny,7589CCE51EAC,ork1-kilkenny@haystack.amazon.com,TRUE,Fri Feb 02 08:31:37 UTC 2024,Fri Feb 02 08:31:40 UTC 2024,No exception,No exception,123456
